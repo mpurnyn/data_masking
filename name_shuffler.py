@@ -1,4 +1,4 @@
-from names_dataset import NameDatasetV1 # v1
+from names_dataset import NameDatasetV1 # https://github.com/philipperemy/name-dataset # pip install names-dataset
 import random
 
 random.seed("602888")
